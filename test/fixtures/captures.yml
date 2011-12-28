@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  capture_file_name: MyString
+  capture_content_type: MyString
+  capture_file_size: 1
+
+two:
+  capture_file_name: MyString
+  capture_content_type: MyString
+  capture_file_size: 1

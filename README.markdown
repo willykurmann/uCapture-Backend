@@ -8,8 +8,9 @@ Specs
 
 Requirements
 ------------
-* Rails (3.1.0)
-* SQLite (current)
+* Rails3.1.3
+* SQLite3
+* PaperClip (https://github.com/thoughtbot/paperclip)
 
 WorkFlow
 --------
