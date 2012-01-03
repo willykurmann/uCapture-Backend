@@ -1,17 +1,10 @@
 uCapture-Backend
 ================
-This project is the server side for the uCapture-Android-Frontend POC
-
-Specs
------
-* Upload images sent from an Android device using the uCapture frontend
+This project is the Rails 3 backend used in the uCapture-Android-Frontend proof of concept
+You can find the frontend project [here](https://github.com/jairok/uCapture-Android-Frontend)
 
 Requirements
 ------------
 * Rails3.1.3
 * SQLite3
-* PaperClip (https://github.com/thoughtbot/paperclip)
-
-WorkFlow
---------
-* GIT Flow
+* [PaperClip] (https://github.com/thoughtbot/paperclip)
